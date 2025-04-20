@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project while learning foundations of web development via The Odin Project. This is a recipes page made solely from HTML. I have used elements like <p><\p>, <h1></h1>, <img>, <ul></ul>, <a></a>, etc. There are three recipes to which the page can go to via relative links. Each recipe page has an image of the dish, ingredients and directions to make it. I have also put a 'home' link at every recipe page to return to the main webpage. 
